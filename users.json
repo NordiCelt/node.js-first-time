@@ -1,0 +1,29 @@
+{
+    "user1": {
+      "id":1,
+      "firstname":"Ray",
+      "lastname":"Triboulet",
+      "email":"triboulet@protonmail.com"
+    },
+  
+    "user2":  {
+      "id":2,
+      "firstname":"George",
+      "lastname":"Bush",
+      "email":"georgie-dubya@prez.com"
+    },
+  
+    "user3":  {
+      "id":3,
+      "firstname":"Ronald",
+      "lastname":"Reagan",
+      "email":"ronniereg@prez.com"
+    },
+  
+    "user4": {
+      "id":4,
+      "firstname":"Aussy",
+      "lastname":"Brittania",
+      "email":"Aussy95@gmail.com"
+    }
+  }
